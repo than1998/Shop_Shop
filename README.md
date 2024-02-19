@@ -9,8 +9,7 @@ online shopping application.
 - Product Detail Page
 - Checkout Page
 
-## Libraries & Tools Used
-# Dart Packages
+## Dart Packages
 - [awesome_bottom_bar](https://pub.dev/packages/awesome_bottom_bar)
 - [flutter_slidable](https://pub.dev/packages/flutter_slidable)
 - [json_annotation](https://pub.dev/packages/json_annotation)
@@ -18,5 +17,5 @@ online shopping application.
 - [getX](https://pub.dev/packages/get)
 - [qr_flutter](https://pub.dev/packages/qr_flutter)
 
-# DataBase
+## DataBase
 - [objectbox](https://pub.dev/packages/objectbox)
