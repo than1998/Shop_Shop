@@ -1,6 +1,6 @@
 # Project shopping (For test)
 
-online shopping application.
+online shopping application. (Don't have a macbook, can only test android.)
 
 ## Example
 
