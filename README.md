@@ -2,6 +2,12 @@
 
 online shopping application.
 
+## Example
+
+![Screenshot](https://github.com/than1998/Shop_Shop/assets/124240319/83355b0f-20fe-406e-a92a-f4051ea26f19)
+
+[Video Example](https://drive.google.com/file/d/15mgv4WmBZ9gGXEehgdChJObaCKZ9IAbE/view?usp=sharing)
+
 ## Features
 - Home Page
 - Saved Page
