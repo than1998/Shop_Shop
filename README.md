@@ -11,13 +11,12 @@ online shopping application.
 
 ## Libraries & Tools Used
 # Dart Packages
-[https://pub.dev/packages/awesome_bottom_bar](https://pub.dev/packages/awesome_bottom_bar)
-[https://pub.dev/packages/flutter_slidable](https://pub.dev/packages/flutter_slidable)
-[https://pub.dev/packages/json_annotation](https://pub.dev/packages/json_annotation)
-[https://pub.dev/packages/intl](https://pub.dev/packages/intl)
-[https://pub.dev/packages/get](https://pub.dev/packages/get)
-[https://pub.dev/packages/qr_flutter](https://pub.dev/packages/qr_flutter)
+- [awesome_bottom_bar](https://pub.dev/packages/awesome_bottom_bar)
+- [flutter_slidable](https://pub.dev/packages/flutter_slidable)
+- [json_annotation](https://pub.dev/packages/json_annotation)
+- [intl](https://pub.dev/packages/intl)
+- [getX](https://pub.dev/packages/get)
+- [qr_flutter](https://pub.dev/packages/qr_flutter)
 
 # DataBase
-[https://docs.flutter.dev/get-started/codelab](https://pub.dev/packages/objectbox)https://pub.dev/packages/objectbox
-
+- [objectbox](https://pub.dev/packages/objectbox)
